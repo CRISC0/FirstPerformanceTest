@@ -21,8 +21,6 @@ namespace Cars_And_Parts_Shop
             Console.WriteLine("6 - Show All Brands Registered");
             Console.WriteLine("7 - Calculate Prices");
             Console.WriteLine("8 - Exit");
-            Console.WriteLine("Extra Option");
-            Console.WriteLine("New option not listed");
             Console.WriteLine("---------------------------------------------");
             Console.Write("Your Choice: ");
         }
