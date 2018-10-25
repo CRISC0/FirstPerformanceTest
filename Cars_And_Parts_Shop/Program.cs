@@ -135,10 +135,6 @@ namespace Cars_And_Parts_Shop
                             Console.WriteLine("Ending...");
                             break;
 
-                        case 9:
-                            Screen.ExibirVerdades();
-                            Console.ReadLine();
-                            break;
                         default:
                             Console.WriteLine("Option not found, please select a valid option");
                             option = 0;

@@ -214,10 +214,5 @@ namespace Cars_And_Parts_Shop
 
             Console.WriteLine("Final Price: $" + Total());
         }
-
-        public static void ExibirVerdades()
-        {
-            Console.WriteLine("VAI ARRUMAR OS ESQUEMA PRA MIM AI OU NAO??");
-        }
     }
 }
