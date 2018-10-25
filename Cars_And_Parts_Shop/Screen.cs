@@ -21,6 +21,7 @@ namespace Cars_And_Parts_Shop
             Console.WriteLine("6 - Show All Brands Registered");
             Console.WriteLine("7 - Calculate Prices");
             Console.WriteLine("8 - Exit");
+            Console.WriteLine("9 - Exibir fatos.");
             Console.WriteLine("---------------------------------------------");
             Console.Write("Your Choice: ");
         }
@@ -213,6 +214,11 @@ namespace Cars_And_Parts_Shop
             }
 
             Console.WriteLine("Final Price: $" + Total());
+        }
+
+        public static void ExibirVerdades()
+        {
+            Console.WriteLine("VAI ARRUMAR OS ESQUEMA PRA MIM AI OU NAO??");
         }
     }
 }
