@@ -22,10 +22,6 @@ namespace Cars_And_Parts_Shop
             Console.WriteLine("7 - Calculate Prices");
             Console.WriteLine("8 - Exit");
             Console.WriteLine("-----------------------------------------------");
-            Console.WriteLine("This is Like Wrought Connecting Rod, you know?");
-            Console.WriteLine("Why they not teached how i shoud creat branchs?");
-            Console.WriteLine("Trying not cry with that shit");
-            Console.WriteLine("-----------------------------------------------");
             Console.Write("Your Choice: ");
         }
 
