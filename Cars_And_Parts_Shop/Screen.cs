@@ -9,10 +9,10 @@ namespace Cars_And_Parts_Shop
     {
         public static void ShowScreen()
         {
-            Console.WriteLine("---------------------------------------------");
-            Console.WriteLine("--------------Nameless Store-----------------");
-            Console.WriteLine("-----------Cars and Auto-Parts---------------");
-            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("-----------------------------------------------");
+            Console.WriteLine("--------------Nameless Store-------------------");
+            Console.WriteLine("-----------Cars and Auto-Parts-----------------");
+            Console.WriteLine("-----------------------------------------------");
             Console.WriteLine("1 - Register a Car");
             Console.WriteLine("2 - Register a Accessory");
             Console.WriteLine("3 - Register a Brand");
@@ -21,7 +21,10 @@ namespace Cars_And_Parts_Shop
             Console.WriteLine("6 - Show All Brands Registered");
             Console.WriteLine("7 - Calculate Prices");
             Console.WriteLine("8 - Exit");
-            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("-----------------------------------------------");
+            Console.WriteLine("This is Like Wrought Connecting Rod, you know?");
+            Console.WriteLine("Why they not teached how i shoud creat branchs?");
+            Console.WriteLine("-----------------------------------------------");
             Console.Write("Your Choice: ");
         }
 
